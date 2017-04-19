@@ -1,0 +1,33 @@
+.titulo{
+  top: 0;
+  font-size: 30px;
+  font-family: verdana;
+  padding: 10px 15px;
+  margin: 15px;
+  margin-bottom: 0;
+}
+.deco-titulo{
+  width: 10%;
+  border: 2px solid black;
+  margin-bottom: 15px;
+}
+.container-coders{
+  width: 70%;
+  height: 70%;
+  left: 15%;
+  position: relative;
+}
+    .imagen{
+      width: 25%;
+      display: inline-block;
+      float: left;
+      margin: 2.5% 1.25%;
+      border: 5px double black;
+    }
+    .nombre{
+      font-family: verdana;
+      font-weight: bold;
+      position: relative;
+      float: right;
+      margin-right: 5%;
+    }
