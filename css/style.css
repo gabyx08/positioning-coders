@@ -27,7 +27,10 @@
     .nombre{
       font-family: verdana;
       font-weight: bold;
-      position: relative;
       float: right;
       margin-right: 5%;
+    }
+
+    .imagen:hover{
+    transform: scale(1.2);
     }
